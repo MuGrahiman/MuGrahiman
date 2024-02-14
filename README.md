@@ -9,6 +9,7 @@
 <br/>
 
 <div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=pie)](https://github.com/MuGrahiman/github-readme-stats)
  
  🔭 I’m currently working on **a Chat Application**
  
@@ -56,7 +57,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=pie)](https://github.com/MuGrahiman/github-readme-stats)
 <div align=center>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=pie)](https://github.com/MuGrahiman/github-readme-stats)
   <img width=390 src="https://github-readme-streak-stats-MuGrahiman.vercel.app/?user=MuGrahiman&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
