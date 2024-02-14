@@ -12,6 +12,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MuGrahiman&show_icons=true" />
     
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuGrahiman&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+    https://github-readme-streak-stats-MuGrahiman.vercel.app/?user=MuGrahiman&count_private=true&theme=react&border_radius=10
+ ![Top Langs](https://github-readme-streak-stats-MuGrahiman.vercel.app/?user=MuGrahiman&count_private=true&theme=react&border_radius=10)
+
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=compact)
 
@@ -63,7 +67,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=pie)](https://github.com/MuGrahiman/github-readme-stats)
   <img width=390 src="https://github-readme-streak-stats-MuGrahiman.vercel.app/?user=MuGrahiman&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-MuGrahiman.vercel.app/api?username=MuGrahiman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
