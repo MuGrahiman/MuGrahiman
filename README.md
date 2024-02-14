@@ -14,9 +14,9 @@
     https://github-readme-streak-stats-MuGrahiman.vercel.app/?user=MuGrahiman&count_private=true&theme=react&border_radius=10
  ![Top Langs](https://github-readme-streak-stats-MuGrahiman.vercel.app/?user=MuGrahiman&count_private=true&theme=react&border_radius=10)
 
-    <img src="https://github-readme-stats.vercel.app/api?username=MuGrahiman&show_icons=true" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api?username=MuGrahiman&show_icons=true" />
 
     
  🔭 I’m currently working on **a Chat Application**
