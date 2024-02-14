@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=pie)](https://github.com/MuGrahiman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
  
  🔭 I’m currently working on **a Chat Application**
  
