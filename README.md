@@ -65,11 +65,15 @@
  <a href="https://github.com/MuGrahiman/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuGrahiman&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 </a>
+ <a href="https://github.com/MuGrahiman/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuGrahiman&layout=compact&langs_count=8&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+</a>
 <a href="https://github.com/MuGrahiman/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuGrahiman&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 </a>
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuGrahiman&theme=react&hide_border=false)<br/>
+ 
+
+    
 
 
 </div>
