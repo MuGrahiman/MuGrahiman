@@ -62,12 +62,14 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <div align=center>
- <a href="https://github.com/MuGrahiman/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuGrahiman&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-</a>
  <a href="https://github.com/MuGrahiman/convoychat">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuGrahiman&layout=compact&langs_count=8&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 </a>
+    
+ <a href="https://github.com/MuGrahiman/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuGrahiman&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+</a>
+
 <a href="https://github.com/MuGrahiman/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuGrahiman&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 </a>
@@ -96,7 +98,6 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MuGrahiman&icon=5&color=1)](https://visitcount.itsvg.in)
