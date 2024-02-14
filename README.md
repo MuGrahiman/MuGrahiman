@@ -4,21 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mujeeb+Rahiman!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India IN</h3>
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGrahiman&layout=compact)
-    <img src="https://github-readme-stats.vercel.app/api?username=MuGrahiman&show_icons=true" />
-
     
  🔭 I’m currently working on **a Chat Application**
  
@@ -65,12 +55,15 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-MuGrahiman.vercel.app/?user=MuGrahiman&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-MuGrahiman.vercel.app/api?username=MuGrahiman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-MuGrahiman.vercel.app/api/top-langs/?username=MuGrahiman&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <a href="https://github.com/MuGrahiman/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuGrahiman&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+</a>
+<a href="https://github.com/MuGrahiman/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuGrahiman&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+</a>
+    
+
 </div>
 
 <br/><br/>
